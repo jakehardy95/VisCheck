@@ -64,6 +64,7 @@
     max-width: 960px;
     flex-direction: column;
     align-items: center;
+    color: black;
   }
 
   svg.material-icons {
@@ -218,6 +219,14 @@
     box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
   }
 
+  a:link {
+    color: white;
+  }
+
+  .home-link {
+    color: white;
+  }
+
   footer {
     margin-top: 8px;
     display: flex;
@@ -262,7 +271,12 @@
     z-index: -10;
     width: 1920px;
   }
-
+  #home {
+    /* background-image: url("https://www.pixelstalk.net/wp-content/uploads/images4/Underwater-Background-HD-1.jpg"); */
+    background-repeat: no-repeat;
+    background-size: fill;
+    width: 100%;
+  }
   /* Responsive Styles */
   @media screen and (max-width: 767px) {
     .card-container > *:not(.circle-link) ,
@@ -283,6 +297,8 @@
       right: 120px;
       transform: rotate(-5deg);
     }
+
+
   }
 
   @media screen and (max-width: 575px) {
