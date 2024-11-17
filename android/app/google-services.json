@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897301427959",
+    "project_id": "vischeck-63885",
+    "storage_bucket": "vischeck-63885.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897301427959:android:bc67aae30db0b94b3f45f2",
+        "android_client_info": {
+          "package_name": "com.example.firstproj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7YdfgYIj7G2ZaNWo56LjhelqDThUt9w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
